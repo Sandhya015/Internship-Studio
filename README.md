@@ -1,4 +1,5 @@
 # Internship-Studio
+Assement done as the part of the internship-studio Internship.
 ![Screenshot from 2024-07-17 14-29-08](https://github.com/user-attachments/assets/ceb52e30-66aa-4c93-8702-e4b71cf8ba09)
 
 ![Screenshot from 2024-07-17 14-29-20](https://github.com/user-attachments/assets/9fc3b708-f9d4-4ec6-b2f0-7f5d90116c38)
